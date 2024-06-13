@@ -42,25 +42,6 @@ The dataset consists of various attributes of car listings, including:
 - **Mileage**: The distance the car has traveled.
 - **Price**: The price of the car (target variable).
 
-## 🚀 Usage
-
-1. **Clone the Repository**: Clone this repository to your local machine using:
-   \`\`\`bash
-   git clone https://github.com/your-username/car-price-predictor.git
-   \`\`\`
-   
-2. **Navigate to the Project Directory**: 
-   \`\`\`bash
-   cd car-price-predictor
-   \`\`\`
-   
-3. **Open Jupyter Notebook**:
-   \`\`\`bash
-   jupyter notebook
-   \`\`\`
-   
-4. **Run the Notebook**: Open the \`Car_Price_Predictor.ipynb\` notebook and run all cells to train the model and make predictions.
-
 ## 🔍 Exploratory Data Analysis (EDA)
 
 EDA helps in understanding the data better. Some of the visualizations included are:
