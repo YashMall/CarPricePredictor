@@ -1,4 +1,4 @@
-# 🚗 Car Price Predictor
+# 🔮 Car Price Predictor: Your personal car valuation genie! 🚗✨
 
 Welcome to the **Car Price Predictor**! This project aims to estimate car prices using a Linear Regression model trained on data from Quikr Car listings. With this tool, you can predict the prices of cars based on various attributes such as make, model, year, mileage, and more. 🚀
 
