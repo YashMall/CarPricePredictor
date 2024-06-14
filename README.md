@@ -28,9 +28,9 @@ To run this project, you need the following dependencies:
 
 You can install these dependencies using pip:
 
-\`\`\`bash
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-\`\`\`
+```
 
 ## 📊 Data Description
 
@@ -41,6 +41,23 @@ The dataset consists of various attributes of car listings, including:
 - **Year**: The year the car was manufactured.
 - **Mileage**: The distance the car has traveled.
 - **Price**: The price of the car (target variable).
+
+## 🚀 Usage
+
+1. **Clone the Repository**: Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/your-username/car-price-predictor.git
+   ```
+   
+2. **Navigate to the Project Directory**: 
+   ```bash
+   cd car-price-predictor
+   ```
+   
+3. **Open Jupyter Notebook**:
+   ```bash
+   jupyter notebook
+   ```
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -72,19 +89,18 @@ This project demonstrates a simple yet effective approach to predicting car pric
 - **Quikr** for providing the car listing data.
 - **scikit-learn** for the machine learning library.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to:
+For any questions or feedback, please open an issue on the repository or contact the project maintainer.
 
-- **Your Name**
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+![author](https://img.shields.io/badge/author-Yash--Mall-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashmall/)
 
-Happy Predicting! 🎉
 
 ---
+
+
+<p align="center"> Happy Predicting! 📊 </p>
+
 
